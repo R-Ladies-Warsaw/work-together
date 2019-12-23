@@ -1,17 +1,7 @@
 ---
-date: "2014-04-09"
-title: woRk togetheR
+date: "2019-04-19T21:37:58+05:30"
+title: About
+type: page
 ---
 
-Hugo is a static site engine written in Go.
-
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+This is some static page where you can write about yourself.

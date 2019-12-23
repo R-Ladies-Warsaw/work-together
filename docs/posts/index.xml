@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Title</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Title</description>
+    <title>Posts on woRk tohgetheR</title>
+    <link>/work-together/posts/</link>
+    <description>Recent content in Posts on woRk tohgetheR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/work-together/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>XAI</title>
-      <link>/posts/2019_01_23_xai_alicja_gosiewska/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <link>/work-together/posts/2019_01_23_alicja_gosiewska_xai/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2019_01_23_xai_alicja_gosiewska/</guid>
-      <description>XAI Alicja Gosiewska</description>
+      <guid>/work-together/posts/2019_01_23_alicja_gosiewska_xai/</guid>
+      <description>Abstract</description>
     </item>
     
   </channel>
