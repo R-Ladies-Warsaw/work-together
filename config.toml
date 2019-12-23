@@ -22,7 +22,7 @@ disqusShortname = "ink-demo"
 	subtitle = "Advanced R users group in Warsaw"
 
 	# Optional 64x64 avatar image.
-	avatar = "img/logo.png"
+	avatar = "https://R-Ladies-Warsaw.github.io/work-together/img/logo.png"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
