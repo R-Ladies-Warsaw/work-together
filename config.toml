@@ -46,7 +46,7 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About woRk togetheR"
+name = "About"
 url = "/about"
 weight = 3
 
