@@ -2,7 +2,7 @@
 baseurl = "https://R-Ladies-Warsaw.github.io/work-together/"
 
 languageCode = "en-us"
-title = "woRk tohgetheR"
+title = "woRk togetheR"
 theme = "hugo-ink"
 paginate = 5
 
@@ -41,29 +41,16 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Past events"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "About woRk togetheR"
 url = "/about"
 weight = 3
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
 
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/ink"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
-
-[taxonomies]
-   tag = "tags"
+url = "https://github.com/R-Ladies-Warsaw"
