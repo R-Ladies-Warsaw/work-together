@@ -1,5 +1,9 @@
 ## Basic Configuration
-baseurl = "https://R-Ladies-Warsaw.github.io/work-together/"
+
+# baseurl = "https://R-Ladies-Warsaw.github.io/work-together/"
+# uncomment when testing
+# baseurl = "example.com"
+
 languageCode = "en"
 
 title = "woRk togetheR"
