@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>woRk togetheR</title>
-    <link>/</link>
+    <link>/work-together/</link>
     <description>Recent content on woRk togetheR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/work-together/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>XAI</title>
-      <link>/posts/2019_01_23_xai_alicja_gosiewska/</link>
+      <link>/work-together/posts/2019_01_23_xai_alicja_gosiewska/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2019_01_23_xai_alicja_gosiewska/</guid>
+      <guid>/work-together/posts/2019_01_23_xai_alicja_gosiewska/</guid>
       <description>XAI Alicja Gosiewska</description>
     </item>
     
     <item>
       <title>DERA</title>
-      <link>/portfolio/dera/</link>
+      <link>/work-together/portfolio/dera/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/dera/</guid>
+      <guid>/work-together/portfolio/dera/</guid>
       <description>This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).</description>
     </item>
     
     <item>
       <title>hyde-hyde</title>
-      <link>/portfolio/hyde-hyde/</link>
+      <link>/work-together/portfolio/hyde-hyde/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/hyde-hyde/</guid>
+      <guid>/work-together/portfolio/hyde-hyde/</guid>
       <description>Hyde-hyde is a responsive Hugo theme inspired by @spf13&#39;s Hyde and its variant Nate Finch&#39;s blog. It was heavily restructured with modularised page layouts for easier maintenance and modification. Hyde-hyde offers awesome features such as nice colour tone, code highlighting, Font-Awesome 5&#39;s sidebar icons), a cool portfolio page, more choices for commenting (e.g. GraphComment, Disqus).</description>
     </item>
     
     <item>
       <title>LaraMod</title>
-      <link>/portfolio/laramod/</link>
+      <link>/work-together/portfolio/laramod/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/laramod/</guid>
+      <guid>/work-together/portfolio/laramod/</guid>
       <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&#39;s codebase separate from Laravel.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/work-together/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/work-together/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -60,10 +60,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>woRk togetheR</title>
-      <link>/about/</link>
+      <link>/work-together/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/work-together/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
@@ -71,10 +71,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>Here will be links</title>
-      <link>/links/</link>
+      <link>/work-together/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/links/</guid>
+      <guid>/work-together/links/</guid>
       <description></description>
     </item>
     
