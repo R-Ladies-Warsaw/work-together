@@ -1,0 +1,73 @@
+## Basic Configuration
+baseurl = "https://R-Ladies-Warsaw.github.io/work-together/"
+languageCode = "en"
+
+title = "woRk togetheR"
+theme = "hyde-hyde"
+
+publishDir = "docs"
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+## Site Settings
+[params]
+    author = "Author"
+    title = "Title"
+    # description = "..."
+    authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "htr3n"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "<username>"
+    instagram = "<username>"
+    xing = "<username>"
+    linkedin = "<username>"
+    twitter = "<username>"
+    facebook = "<username>"
+    stackoverflow = "<username>"
+    telegram = "<username>"
+    email = "your-email@example.com"
+    # gravatar = "your-email@example.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Past events"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "woRk togetheR"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
+[[menu.main]]
+    name = "Links"
+    identifier = "links"
+    weight = 300
+    url = "/links/"
