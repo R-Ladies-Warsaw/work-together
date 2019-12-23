@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>presentation on woRk togetheR</title>
-    <link>/work-together/categories/presentation/</link>
-    <description>Recent content in presentation on woRk togetheR</description>
+    <title>presentation on Title</title>
+    <link>/categories/presentation/</link>
+    <description>Recent content in presentation on Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/work-together/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>XAI</title>
-      <link>/work-together/posts/2019_01_23_xai_alicja_gosiewska/</link>
+      <link>/posts/2019_01_23_xai_alicja_gosiewska/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/work-together/posts/2019_01_23_xai_alicja_gosiewska/</guid>
+      <guid>/posts/2019_01_23_xai_alicja_gosiewska/</guid>
       <description>XAI Alicja Gosiewska</description>
     </item>
     

@@ -1,12 +1,9 @@
 ## Basic Configuration
-
-baseurl = "https://R-Ladies-Warsaw.github.io/work-together/"
-# uncomment when testing
-# baseurl = "example.com"
-
+baseurl = "https://example.com/"
+# baseurl = "https://R-Ladies-Warsaw.github.io/work-together/"
 languageCode = "en"
 
-title = "woRk togetheR"
+title = "Title"
 theme = "hyde-hyde"
 
 publishDir = "docs"
@@ -61,17 +58,17 @@ publishDir = "docs"
 
 ## Main Menu
 [[menu.main]]
-    name = "Past events"
+    name = "Past Events"
     weight = 100
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "woRk togetheR"
+    name = "Links"
+    identifier = "links"
+    weight = 200
+    url = "/links/"
+[[menu.main]]
+    name = "About"
     identifier = "about"
     weight = 300
     url = "/about/"
-[[menu.main]]
-    name = "Links"
-    identifier = "links"
-    weight = 300
-    url = "/links/"
